@@ -774,23 +774,4 @@ input:placeholder-shown {
 .card3 {
     background: white;
 }
-
-header,
-.bg-light {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    background: white;
-    background-attachment: fixed;
-    z-index: 999;
-}
-
-.navbar-nav {
-    padding-top: 100px;
-    background: white;
-    background-attachment: fixed;
-}
-
-body {
-    padding-top: 100px;
-}
+ 
